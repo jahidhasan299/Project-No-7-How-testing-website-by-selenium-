@@ -1,0 +1,58 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyGlobalUndefinedInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E303" />
+          <option value="W292" />
+          <option value="E302" />
+          <option value="E305" />
+          <option value="E301" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N813" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="filter" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="NameFind" />
+          <option value="pacman.bgcolor" />
+          <option value="pacman.clear" />
+          <option value="pacman.up" />
+          <option value="pacman.goto" />
+          <option value="pacman.*" />
+          <option value="cannon.*" />
+          <option value="Tic_Tac_Toe.*" />
+          <option value="Maze.*" />
+          <option value="paint.*" />
+          <option value="sneak.*" />
+          <option value="connect_four.*" />
+          <option value="Flappy.*" />
+          <option value="Memory.*" />
+          <option value="pong.*" />
+          <option value="Simons_says.*" />
+          <option value="Tiles.*" />
+          <option value="Tron.*" />
+          <option value="Life.*" />
+          <option value="Fidget.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
